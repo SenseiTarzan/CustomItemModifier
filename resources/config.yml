@@ -61,29 +61,6 @@ simpleitem:
   Saphir Ingot:
     id: 742
     meta: 0
-fooditem:
-  Saphir Apple:
-    id: 737
-    meta: 0
-    saturation: 0
-    food: 0
-    enable_effects: true
-    effects:
-       1:
-         amplifier: 1
-         duration: 99999
-  Kelp:
-    id: 335
-    meta: 0
-    saturation: 0
-    food: 0
-    enable_effects: false
-  test:
-    id: 734
-    meta: 0
-    saturation: 0
-    food: 0
-    enable_effects: false
 armoreffect:
   748:
     1:

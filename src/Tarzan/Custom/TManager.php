@@ -161,9 +161,8 @@ class TManager
         $player = $event->getEntity();
         $ItemNew = $event->getNewItem();
         $ItemOld = $event->getOldItem();
-        echo empty($this->getClassALL("armoreffect"));
-            $this->addEffect($ItemNew, $player);
-            $this->removeEffect($ItemOld, $player);
+        $this->addEffect($ItemNew, $player);
+        $this->removeEffect($ItemOld, $player);
 
     }
 
