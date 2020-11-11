@@ -1,0 +1,96 @@
+---
+armor:
+  Saphir Helmet:
+    id: 748
+    meta: 0
+    def: 6
+    dura: 3000
+  Saphir Chestplate:
+    id: 746
+    meta: 0
+    def: 6
+    dura: 3000
+  Saphir Leggigns:
+    id: 750
+    meta: 0
+    def: 6
+    dura: 3000
+  Saphir Boots:
+    id: 751
+    meta: 0
+    def: 5
+    dura: 3000
+sword:
+  Saphir Sword:
+    id: 743
+    meta: 0
+    tier: 6
+    attackdamage: 6
+    dura: 3000
+  Emerald Sword:
+    id: 757
+    meta: 0
+    tier: 6
+    attackdamage: 200
+    dura: 3000
+pickaxe:
+  Saphir Pickaxe:
+    id: 745
+    meta: 0
+    tier: 6
+    dura: 3000
+shovel:
+  Saphir Shovel:
+    id: 744
+    meta: 0
+    tier: 6
+    dura: 3000
+hoe:
+  Saphir Hoe:
+    id: 747
+    meta: 0
+    tier: 6
+    dura: 3000
+axe:
+  Saphir Axe:
+    id: 746
+    meta: 0
+    tier: 6
+    dura: 3000
+simpleitem:
+  Saphir Ingot:
+    id: 742
+    meta: 0
+fooditem:
+  Saphir Apple:
+    id: 737
+    meta: 0
+    saturation: 0
+    food: 0
+    enable_effects: true
+    effects:
+       1:
+         amplifier: 1
+         duration: 99999
+  Kelp:
+    id: 335
+    meta: 0
+    saturation: 0
+    food: 0
+    enable_effects: false
+  test:
+    id: 734
+    meta: 0
+    saturation: 0
+    food: 0
+    enable_effects: false
+armoreffect:
+  748:
+    1:
+      amplifier: 1
+      duration: 99999
+    2:
+      amplifier: 1
+      duration: 99999
+
+...

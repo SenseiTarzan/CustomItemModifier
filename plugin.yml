@@ -1,0 +1,5 @@
+name: CustomItemCreator
+author: SenseiTarzan
+version: 0.0.1
+main: Tarzan\Main
+api: 3.0.0
